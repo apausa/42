@@ -1,0 +1,5 @@
+Credentials cache: API:5204
+        Principal: papausa-@42MADRID.COM
+
+  Issued                Expires               Principal
+Nov 25 10:15:41 2020  Nov 25 20:15:35 2020  krbtgt/42MADRID.COM@42MADRID.COM
